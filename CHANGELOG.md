@@ -1,3 +1,7 @@
+## [1.3.6] - 2025-12-30
+### 🐛 Fixes
+- **Fix**: Fix pub score issue by updating sdk constraints.
+
 ## [1.3.5] - 2025-12-30
 ### 🐛 Fixes
 - **Fix**: Minor bug fix.
